@@ -1,7 +1,6 @@
 ---
-title: Test Character
+title: Bodar
 draft: false
 tags:
   - Character
 ---
-BING BONG

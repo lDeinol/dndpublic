@@ -1,7 +1,6 @@
 ---
-title: Test
+title: Basian Empire
 draft: false
 tags:
   - Note
 ---
-in a world where 
