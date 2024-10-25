@@ -1,6 +1,7 @@
 ---
-title: <% tp.file.title %>
+title: Test Character
 draft: false
 tags:
   - Character
 ---
+BING BONG
